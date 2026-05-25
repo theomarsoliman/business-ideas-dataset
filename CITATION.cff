@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Business Ideas Database: Validated Business Ideas Dataset"
+abstract: "Public, MIT licensed dataset of validated business ideas sourced from real Reddit pain points and App Store reviews, scored by AI across opportunity, problem severity, feasibility, and timing. Each entry links back to the full editorial analysis at businessideasdb.com."
+authors:
+  - name: "Business Ideas Database"
+date-released: 2026-05-26
+url: "https://businessideasdb.com"
+repository-code: "https://github.com/theomarsoliman/business-ideas-dataset"
+license: MIT
+keywords:
+  - business ideas
+  - saas ideas
+  - micro saas
+  - app ideas
+  - indie hackers
+  - startup ideas
+  - dataset
+  - validated ideas
+  - reddit data
+  - product validation

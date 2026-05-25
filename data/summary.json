@@ -1,0 +1,18 @@
+{
+  "name": "Business Ideas Database",
+  "source": "https://businessideasdb.com",
+  "description": "Public dataset of validated business ideas sourced from Reddit pain points and App Store reviews, scored by AI across opportunity, problem severity, feasibility, and timing.",
+  "license": "MIT",
+  "generated_at": "2026-05-25T23:28:19.217Z",
+  "total_ideas": 42,
+  "categories": [
+    "App",
+    "Mobile App",
+    "Platform",
+    "SaaS",
+    "SaaS + Hardware",
+    "Tool"
+  ],
+  "license_url": "https://github.com/theomarsoliman/business-ideas-dataset/blob/main/LICENSE",
+  "citation": "Business Ideas Database (2026). Validated Business Ideas Dataset. Retrieved from https://businessideasdb.com/state-of-indie-business-ideas-2026"
+}

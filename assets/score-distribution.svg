@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" role="img" aria-label="Score distribution">
+<style>text{font-family:-apple-system,BlinkMacSystemFont,sans-serif;}</style>
+<rect width="100%" height="100%" fill="#FAFAF7"/>
+<text x="40" y="28" font-size="16" font-weight="700" fill="#111">AI score distribution (out of 10)</text>
+<text x="40" y="48" font-size="12" fill="#777">42 ideas scored across four dimensions. Counts show ideas at each tier.</text>
+<text x="40" y="86" font-size="13" font-weight="700" fill="#333">Opportunity</text>
+<text x="40" y="104" font-size="11" fill="#888" font-family="ui-monospace,Menlo,monospace">mean 8.3/10</text>
+<rect x="40.0" y="130" width="32.1" height="36" fill="#999"/>
+<text x="56.1" y="153.0" font-size="13" font-weight="700" fill="white" text-anchor="middle" font-family="ui-monospace,Menlo,monospace">5</text>
+<rect x="72.1" y="130" width="237.9" height="36" fill="#22A86A"/>
+<text x="191.1" y="153.0" font-size="13" font-weight="700" fill="white" text-anchor="middle" font-family="ui-monospace,Menlo,monospace">37</text>
+<rect x="40" y="180" width="10" height="10" fill="#E0E0E0"/>
+<text x="54" y="188" font-size="10" fill="#666">Low (&lt;6)</text>
+<rect x="116" y="180" width="10" height="10" fill="#999"/>
+<text x="130" y="188" font-size="10" fill="#666">Mid (6-7)</text>
+<rect x="198" y="180" width="10" height="10" fill="#22A86A"/>
+<text x="212" y="188" font-size="10" fill="#666">High (8+)</text>
+<text x="330" y="86" font-size="13" font-weight="700" fill="#333">Problem severity</text>
+<text x="330" y="104" font-size="11" fill="#888" font-family="ui-monospace,Menlo,monospace">mean 8.3/10</text>
+<rect x="330.0" y="130" width="45.0" height="36" fill="#999"/>
+<text x="352.5" y="153.0" font-size="13" font-weight="700" fill="white" text-anchor="middle" font-family="ui-monospace,Menlo,monospace">7</text>
+<rect x="375.0" y="130" width="225.0" height="36" fill="#E5453A"/>
+<text x="487.5" y="153.0" font-size="13" font-weight="700" fill="white" text-anchor="middle" font-family="ui-monospace,Menlo,monospace">35</text>
+<rect x="330" y="180" width="10" height="10" fill="#E0E0E0"/>
+<text x="344" y="188" font-size="10" fill="#666">Low (&lt;6)</text>
+<rect x="406" y="180" width="10" height="10" fill="#999"/>
+<text x="420" y="188" font-size="10" fill="#666">Mid (6-7)</text>
+<rect x="488" y="180" width="10" height="10" fill="#E5453A"/>
+<text x="502" y="188" font-size="10" fill="#666">High (8+)</text>
+<text x="620" y="86" font-size="13" font-weight="700" fill="#333">Feasibility</text>
+<text x="620" y="104" font-size="11" fill="#888" font-family="ui-monospace,Menlo,monospace">mean 7.4/10</text>
+<rect x="620.0" y="130" width="12.9" height="36" fill="#E0E0E0"/>
+<rect x="632.9" y="130" width="135.0" height="36" fill="#999"/>
+<text x="700.4" y="153.0" font-size="13" font-weight="700" fill="white" text-anchor="middle" font-family="ui-monospace,Menlo,monospace">21</text>
+<rect x="767.9" y="130" width="122.1" height="36" fill="#4B7BF5"/>
+<text x="828.9" y="153.0" font-size="13" font-weight="700" fill="white" text-anchor="middle" font-family="ui-monospace,Menlo,monospace">19</text>
+<rect x="620" y="180" width="10" height="10" fill="#E0E0E0"/>
+<text x="634" y="188" font-size="10" fill="#666">Low (&lt;6)</text>
+<rect x="696" y="180" width="10" height="10" fill="#999"/>
+<text x="710" y="188" font-size="10" fill="#666">Mid (6-7)</text>
+<rect x="778" y="180" width="10" height="10" fill="#4B7BF5"/>
+<text x="792" y="188" font-size="10" fill="#666">High (8+)</text>
+<text x="910" y="86" font-size="13" font-weight="700" fill="#333">Timing</text>
+<text x="910" y="104" font-size="11" fill="#888" font-family="ui-monospace,Menlo,monospace">mean 8.2/10</text>
+<rect x="910.0" y="130" width="38.6" height="36" fill="#999"/>
+<text x="929.3" y="153.0" font-size="13" font-weight="700" fill="white" text-anchor="middle" font-family="ui-monospace,Menlo,monospace">6</text>
+<rect x="948.6" y="130" width="231.4" height="36" fill="#E09B13"/>
+<text x="1064.3" y="153.0" font-size="13" font-weight="700" fill="white" text-anchor="middle" font-family="ui-monospace,Menlo,monospace">36</text>
+<rect x="910" y="180" width="10" height="10" fill="#E0E0E0"/>
+<text x="924" y="188" font-size="10" fill="#666">Low (&lt;6)</text>
+<rect x="986" y="180" width="10" height="10" fill="#999"/>
+<text x="1000" y="188" font-size="10" fill="#666">Mid (6-7)</text>
+<rect x="1068" y="180" width="10" height="10" fill="#E09B13"/>
+<text x="1082" y="188" font-size="10" fill="#666">High (8+)</text>
+</svg>
