@@ -4,7 +4,7 @@
     "source": "https://businessideasdb.com",
     "description": "Public dataset of validated business ideas sourced from Reddit pain points and App Store reviews, scored by AI across opportunity, problem severity, feasibility, and timing.",
     "license": "MIT",
-    "generated_at": "2026-05-25T23:28:19.217Z",
+    "generated_at": "2026-05-25T23:40:07.680Z",
     "total_ideas": 42,
     "categories": [
       "App",
@@ -15,7 +15,8 @@
       "Tool"
     ],
     "license_url": "https://github.com/theomarsoliman/business-ideas-dataset/blob/main/LICENSE",
-    "citation": "Business Ideas Database (2026). Validated Business Ideas Dataset. Retrieved from https://businessideasdb.com/state-of-indie-business-ideas-2026"
+    "citation": "Business Ideas Database (2026). Validated Business Ideas Dataset. Retrieved from https://businessideasdb.com/state-of-indie-business-ideas-2026",
+    "utm_template": "?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
   },
   "ideas": [
     {
@@ -48,7 +49,8 @@
       ],
       "created_at": "2026-05-22 12:28:33",
       "updated_at": "2026-05-22 12:28:33",
-      "url": "https://businessideasdb.com/idea/trade-invoice-autopilot"
+      "url": "https://businessideasdb.com/idea/trade-invoice-autopilot",
+      "tracked_url": "https://businessideasdb.com/idea/trade-invoice-autopilot?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 41,
@@ -80,7 +82,8 @@
       ],
       "created_at": "2026-05-22 12:39:02",
       "updated_at": "2026-05-22 12:39:02",
-      "url": "https://businessideasdb.com/idea/legal-citation-verifier"
+      "url": "https://businessideasdb.com/idea/legal-citation-verifier",
+      "tracked_url": "https://businessideasdb.com/idea/legal-citation-verifier?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 39,
@@ -112,7 +115,8 @@
       ],
       "created_at": "2026-05-22 12:38:57",
       "updated_at": "2026-05-22 12:38:57",
-      "url": "https://businessideasdb.com/idea/quickbooks-invoice-autopilot"
+      "url": "https://businessideasdb.com/idea/quickbooks-invoice-autopilot",
+      "tracked_url": "https://businessideasdb.com/idea/quickbooks-invoice-autopilot?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 37,
@@ -144,7 +148,8 @@
       ],
       "created_at": "2026-05-22 12:38:51",
       "updated_at": "2026-05-22 12:38:51",
-      "url": "https://businessideasdb.com/idea/sub-insurance-tracker"
+      "url": "https://businessideasdb.com/idea/sub-insurance-tracker",
+      "tracked_url": "https://businessideasdb.com/idea/sub-insurance-tracker?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 35,
@@ -176,7 +181,8 @@
       ],
       "created_at": "2026-05-22 12:28:36",
       "updated_at": "2026-05-22 12:28:36",
-      "url": "https://businessideasdb.com/idea/whatsapp-invoice-ocr"
+      "url": "https://businessideasdb.com/idea/whatsapp-invoice-ocr",
+      "tracked_url": "https://businessideasdb.com/idea/whatsapp-invoice-ocr?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 16,
@@ -209,7 +215,8 @@
       ],
       "created_at": "2026-05-12 10:00:00",
       "updated_at": "2026-05-22 12:10:35",
-      "url": "https://businessideasdb.com/idea/animated-micro-explainers"
+      "url": "https://businessideasdb.com/idea/animated-micro-explainers",
+      "tracked_url": "https://businessideasdb.com/idea/animated-micro-explainers?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 32,
@@ -241,7 +248,8 @@
       ],
       "created_at": "2026-05-22 12:28:28",
       "updated_at": "2026-05-22 12:28:28",
-      "url": "https://businessideasdb.com/idea/solo-trade-field-service"
+      "url": "https://businessideasdb.com/idea/solo-trade-field-service",
+      "tracked_url": "https://businessideasdb.com/idea/solo-trade-field-service?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 17,
@@ -274,7 +282,8 @@
       ],
       "created_at": "2026-05-11 10:00:00",
       "updated_at": "2026-05-22 12:10:35",
-      "url": "https://businessideasdb.com/idea/vertical-video-book-summaries"
+      "url": "https://businessideasdb.com/idea/vertical-video-book-summaries",
+      "tracked_url": "https://businessideasdb.com/idea/vertical-video-book-summaries?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 38,
@@ -306,7 +315,8 @@
       ],
       "created_at": "2026-05-22 12:38:54",
       "updated_at": "2026-05-22 12:38:54",
-      "url": "https://businessideasdb.com/idea/used-car-inspection-app"
+      "url": "https://businessideasdb.com/idea/used-car-inspection-app",
+      "tracked_url": "https://businessideasdb.com/idea/used-car-inspection-app?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 36,
@@ -338,7 +348,8 @@
       ],
       "created_at": "2026-05-22 12:28:39",
       "updated_at": "2026-05-22 12:28:39",
-      "url": "https://businessideasdb.com/idea/repeat-sales-crm"
+      "url": "https://businessideasdb.com/idea/repeat-sales-crm",
+      "tracked_url": "https://businessideasdb.com/idea/repeat-sales-crm?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 33,
@@ -370,7 +381,8 @@
       ],
       "created_at": "2026-05-22 12:28:31",
       "updated_at": "2026-05-22 12:28:31",
-      "url": "https://businessideasdb.com/idea/auto-shop-vin-scanner"
+      "url": "https://businessideasdb.com/idea/auto-shop-vin-scanner",
+      "tracked_url": "https://businessideasdb.com/idea/auto-shop-vin-scanner?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 5,
@@ -402,7 +414,8 @@
       ],
       "created_at": "2026-05-21 18:50:09",
       "updated_at": "2026-05-21 18:50:09",
-      "url": "https://businessideasdb.com/idea/solofield-service-suite"
+      "url": "https://businessideasdb.com/idea/solofield-service-suite",
+      "tracked_url": "https://businessideasdb.com/idea/solofield-service-suite?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 1,
@@ -435,7 +448,8 @@
       ],
       "created_at": "2026-05-21 11:43:53",
       "updated_at": "2026-05-21 11:43:53",
-      "url": "https://businessideasdb.com/idea/digital-legacy-vault"
+      "url": "https://businessideasdb.com/idea/digital-legacy-vault",
+      "tracked_url": "https://businessideasdb.com/idea/digital-legacy-vault?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 14,
@@ -468,7 +482,8 @@
       ],
       "created_at": "2026-05-14 10:00:00",
       "updated_at": "2026-05-22 12:10:35",
-      "url": "https://businessideasdb.com/idea/angel-numbers-alerts"
+      "url": "https://businessideasdb.com/idea/angel-numbers-alerts",
+      "tracked_url": "https://businessideasdb.com/idea/angel-numbers-alerts?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 20,
@@ -501,7 +516,8 @@
       ],
       "created_at": "2026-05-08 10:00:00",
       "updated_at": "2026-05-22 12:10:35",
-      "url": "https://businessideasdb.com/idea/science-discovery-game"
+      "url": "https://businessideasdb.com/idea/science-discovery-game",
+      "tracked_url": "https://businessideasdb.com/idea/science-discovery-game?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 24,
@@ -535,7 +551,8 @@
       ],
       "created_at": "2026-05-04 10:00:00",
       "updated_at": "2026-05-22 12:23:28",
-      "url": "https://businessideasdb.com/idea/breakup-recovery-program"
+      "url": "https://businessideasdb.com/idea/breakup-recovery-program",
+      "tracked_url": "https://businessideasdb.com/idea/breakup-recovery-program?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 30,
@@ -569,7 +586,8 @@
       ],
       "created_at": "2026-04-28 10:00:00",
       "updated_at": "2026-05-22 12:25:24",
-      "url": "https://businessideasdb.com/idea/smartphone-addiction-recovery"
+      "url": "https://businessideasdb.com/idea/smartphone-addiction-recovery",
+      "tracked_url": "https://businessideasdb.com/idea/smartphone-addiction-recovery?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 43,
@@ -603,7 +621,8 @@
       ],
       "created_at": "2026-04-25 10:00:00",
       "updated_at": "2026-05-22 12:44:26",
-      "url": "https://businessideasdb.com/idea/gambling-addiction-recovery"
+      "url": "https://businessideasdb.com/idea/gambling-addiction-recovery",
+      "tracked_url": "https://businessideasdb.com/idea/gambling-addiction-recovery?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 44,
@@ -637,7 +656,8 @@
       ],
       "created_at": "2026-04-24 10:00:00",
       "updated_at": "2026-05-22 12:44:26",
-      "url": "https://businessideasdb.com/idea/gaming-addiction-recovery"
+      "url": "https://businessideasdb.com/idea/gaming-addiction-recovery",
+      "tracked_url": "https://businessideasdb.com/idea/gaming-addiction-recovery?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 55,
@@ -669,7 +689,8 @@
       ],
       "created_at": "2026-05-24 23:15:32",
       "updated_at": "2026-05-24 23:15:32",
-      "url": "https://businessideasdb.com/idea/solo-proposal-flow"
+      "url": "https://businessideasdb.com/idea/solo-proposal-flow",
+      "tracked_url": "https://businessideasdb.com/idea/solo-proposal-flow?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 53,
@@ -701,7 +722,8 @@
       ],
       "created_at": "2026-05-22 18:23:52",
       "updated_at": "2026-05-22 18:23:52",
-      "url": "https://businessideasdb.com/idea/ai-wedding-seating-planner"
+      "url": "https://businessideasdb.com/idea/ai-wedding-seating-planner",
+      "tracked_url": "https://businessideasdb.com/idea/ai-wedding-seating-planner?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 40,
@@ -733,7 +755,8 @@
       ],
       "created_at": "2026-05-22 12:38:59",
       "updated_at": "2026-05-22 12:38:59",
-      "url": "https://businessideasdb.com/idea/small-landlord-manager"
+      "url": "https://businessideasdb.com/idea/small-landlord-manager",
+      "tracked_url": "https://businessideasdb.com/idea/small-landlord-manager?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 4,
@@ -765,7 +788,8 @@
       ],
       "created_at": "2026-05-21 18:29:53",
       "updated_at": "2026-05-21 18:29:53",
-      "url": "https://businessideasdb.com/idea/trainerflow-pt-software"
+      "url": "https://businessideasdb.com/idea/trainerflow-pt-software",
+      "tracked_url": "https://businessideasdb.com/idea/trainerflow-pt-software?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 15,
@@ -798,7 +822,8 @@
       ],
       "created_at": "2026-05-13 10:00:00",
       "updated_at": "2026-05-22 12:10:35",
-      "url": "https://businessideasdb.com/idea/ai-philosophical-journal"
+      "url": "https://businessideasdb.com/idea/ai-philosophical-journal",
+      "tracked_url": "https://businessideasdb.com/idea/ai-philosophical-journal?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 19,
@@ -831,7 +856,8 @@
       ],
       "created_at": "2026-05-09 10:00:00",
       "updated_at": "2026-05-22 12:10:35",
-      "url": "https://businessideasdb.com/idea/economics-simulation-game"
+      "url": "https://businessideasdb.com/idea/economics-simulation-game",
+      "tracked_url": "https://businessideasdb.com/idea/economics-simulation-game?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 22,
@@ -865,7 +891,8 @@
       ],
       "created_at": "2026-05-06 10:00:00",
       "updated_at": "2026-05-22 12:22:57",
-      "url": "https://businessideasdb.com/idea/historical-events-feed"
+      "url": "https://businessideasdb.com/idea/historical-events-feed",
+      "tracked_url": "https://businessideasdb.com/idea/historical-events-feed?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 23,
@@ -899,7 +926,8 @@
       ],
       "created_at": "2026-05-05 10:00:00",
       "updated_at": "2026-05-22 12:22:57",
-      "url": "https://businessideasdb.com/idea/friend-focus-phone-lock"
+      "url": "https://businessideasdb.com/idea/friend-focus-phone-lock",
+      "tracked_url": "https://businessideasdb.com/idea/friend-focus-phone-lock?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 27,
@@ -933,7 +961,8 @@
       ],
       "created_at": "2026-05-01 10:00:00",
       "updated_at": "2026-05-22 12:24:08",
-      "url": "https://businessideasdb.com/idea/mental-health-support-circles"
+      "url": "https://businessideasdb.com/idea/mental-health-support-circles",
+      "tracked_url": "https://businessideasdb.com/idea/mental-health-support-circles?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 29,
@@ -967,7 +996,8 @@
       ],
       "created_at": "2026-04-29 10:00:00",
       "updated_at": "2026-05-22 12:24:45",
-      "url": "https://businessideasdb.com/idea/household-kanban-board"
+      "url": "https://businessideasdb.com/idea/household-kanban-board",
+      "tracked_url": "https://businessideasdb.com/idea/household-kanban-board?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 47,
@@ -1001,7 +1031,8 @@
       ],
       "created_at": "2026-04-21 10:00:00",
       "updated_at": "2026-05-22 12:45:22",
-      "url": "https://businessideasdb.com/idea/breakup-digital-eraser"
+      "url": "https://businessideasdb.com/idea/breakup-digital-eraser",
+      "tracked_url": "https://businessideasdb.com/idea/breakup-digital-eraser?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 18,
@@ -1034,7 +1065,8 @@
       ],
       "created_at": "2026-05-10 10:00:00",
       "updated_at": "2026-05-22 12:10:35",
-      "url": "https://businessideasdb.com/idea/historical-audio-storytelling"
+      "url": "https://businessideasdb.com/idea/historical-audio-storytelling",
+      "tracked_url": "https://businessideasdb.com/idea/historical-audio-storytelling?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 21,
@@ -1067,7 +1099,8 @@
       ],
       "created_at": "2026-05-07 10:00:00",
       "updated_at": "2026-05-22 12:10:35",
-      "url": "https://businessideasdb.com/idea/philosophy-questions-community"
+      "url": "https://businessideasdb.com/idea/philosophy-questions-community",
+      "tracked_url": "https://businessideasdb.com/idea/philosophy-questions-community?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 45,
@@ -1101,7 +1134,8 @@
       ],
       "created_at": "2026-04-23 10:00:00",
       "updated_at": "2026-05-22 12:45:22",
-      "url": "https://businessideasdb.com/idea/ai-sprint-planner-makers"
+      "url": "https://businessideasdb.com/idea/ai-sprint-planner-makers",
+      "tracked_url": "https://businessideasdb.com/idea/ai-sprint-planner-makers?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 25,
@@ -1135,7 +1169,8 @@
       ],
       "created_at": "2026-05-03 10:00:00",
       "updated_at": "2026-05-22 12:23:28",
-      "url": "https://businessideasdb.com/idea/gamified-savings-quests"
+      "url": "https://businessideasdb.com/idea/gamified-savings-quests",
+      "tracked_url": "https://businessideasdb.com/idea/gamified-savings-quests?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 26,
@@ -1169,7 +1204,8 @@
       ],
       "created_at": "2026-05-02 10:00:00",
       "updated_at": "2026-05-22 12:24:08",
-      "url": "https://businessideasdb.com/idea/sleep-schedule-optimizer"
+      "url": "https://businessideasdb.com/idea/sleep-schedule-optimizer",
+      "tracked_url": "https://businessideasdb.com/idea/sleep-schedule-optimizer?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 28,
@@ -1203,7 +1239,8 @@
       ],
       "created_at": "2026-04-30 10:00:00",
       "updated_at": "2026-05-22 12:24:45",
-      "url": "https://businessideasdb.com/idea/date-night-scheduler"
+      "url": "https://businessideasdb.com/idea/date-night-scheduler",
+      "tracked_url": "https://businessideasdb.com/idea/date-night-scheduler?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 31,
@@ -1237,7 +1274,8 @@
       ],
       "created_at": "2026-04-27 10:00:00",
       "updated_at": "2026-05-22 12:25:24",
-      "url": "https://businessideasdb.com/idea/daily-poetry-app"
+      "url": "https://businessideasdb.com/idea/daily-poetry-app",
+      "tracked_url": "https://businessideasdb.com/idea/daily-poetry-app?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 46,
@@ -1271,7 +1309,8 @@
       ],
       "created_at": "2026-04-22 10:00:00",
       "updated_at": "2026-05-22 12:45:22",
-      "url": "https://businessideasdb.com/idea/micro-skill-fitness"
+      "url": "https://businessideasdb.com/idea/micro-skill-fitness",
+      "tracked_url": "https://businessideasdb.com/idea/micro-skill-fitness?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 48,
@@ -1305,7 +1344,8 @@
       ],
       "created_at": "2026-04-20 10:00:00",
       "updated_at": "2026-05-22 12:46:15",
-      "url": "https://businessideasdb.com/idea/wikipedia-rabbit-hole"
+      "url": "https://businessideasdb.com/idea/wikipedia-rabbit-hole",
+      "tracked_url": "https://businessideasdb.com/idea/wikipedia-rabbit-hole?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 50,
@@ -1339,7 +1379,8 @@
       ],
       "created_at": "2026-04-18 10:00:00",
       "updated_at": "2026-05-22 12:46:15",
-      "url": "https://businessideasdb.com/idea/smart-notification-router"
+      "url": "https://businessideasdb.com/idea/smart-notification-router",
+      "tracked_url": "https://businessideasdb.com/idea/smart-notification-router?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 42,
@@ -1373,7 +1414,8 @@
       ],
       "created_at": "2026-04-26 10:00:00",
       "updated_at": "2026-05-22 12:44:26",
-      "url": "https://businessideasdb.com/idea/art-style-quiz-game"
+      "url": "https://businessideasdb.com/idea/art-style-quiz-game",
+      "tracked_url": "https://businessideasdb.com/idea/art-style-quiz-game?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     },
     {
       "id": 49,
@@ -1407,7 +1449,8 @@
       ],
       "created_at": "2026-04-19 10:00:00",
       "updated_at": "2026-05-22 12:46:15",
-      "url": "https://businessideasdb.com/idea/infographic-knowledge-cards"
+      "url": "https://businessideasdb.com/idea/infographic-knowledge-cards",
+      "tracked_url": "https://businessideasdb.com/idea/infographic-knowledge-cards?utm_source=github&utm_medium=dataset&utm_campaign=business-ideas-dataset"
     }
   ]
 }
